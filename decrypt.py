@@ -45,4 +45,4 @@ def getData(data):
 
     exit()
 
-decryptImageToText("encrypted.png")
+decryptImageToText("img.png")
